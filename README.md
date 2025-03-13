@@ -27,7 +27,7 @@ I am a seasoned Technical Writer and Editor with over 10 years of experience tra
 
 ### 💻 Mzaya Pvt. Ltd (December 2010 – April 2013)
 - 🌐 Created and updated an online user manual using Robohelp for tax preparation software increasing user access by 50%
--    Conceived, published and distributed Powermatics Energy Brochure as a part of Marketing collateral that increased customer 
+- 🌐 Conceived, published and distributed Powermatics Energy Brochure as a part of Marketing collateral that increased customer 
      engagement by 40%
   
 ## 🛠 Tools and Technologies
