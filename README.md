@@ -46,7 +46,7 @@ I believe that clear, well-structured documentation empowers users and strengthe
 
 ## 📣 Let’s Connect
 - 📧 **Email:** [natraj282000@yahoo.com](mailto:natraj282000@yahoo.com)
-- 💼 **LinkedIn:** [linkedin.com/in/natraj-sharma-74681b321](https://www.linkedin.com/in/natraj-ramamoorthy-ba912b4)
+- 💼 **LinkedIn:** [linkedin.com/in/natraj-ramamoorthy-ba912b4](https://www.linkedin.com/in/natraj-ramamoorthy-ba912b4)
 - 🐙 **GitHub:** [github.com/natraj282000/My-Portfolio](https://github.com/natraj282000/My-Portfolio)
 
 <p align="center">Thank you for taking the time to check out my work! 🌟</p>
