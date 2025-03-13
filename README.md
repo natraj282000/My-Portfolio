@@ -13,6 +13,9 @@ I am a seasoned Technical Writer and Editor with over 10 years of experience tra
 
 ## 📌 Portfolio Highlights
 
+### 💻 Access Holdings (June 2021 – Present)(Freelance Assignment)
+- 🌐 Created and updated API documentation for banking operations like creating Savings Account, Customers, Loans, Transacrtions, Configurations, etc., improving customer satisfaction by 40%
+  
 ### 🏥 Greenway Health (June 2022 – November 2024)
 - 📘 Developed FHIR API documentation using VS Code Editor
 - 📈 Published API documentation on ReadMe.IO, increasing user engagement by 30%
@@ -21,13 +24,9 @@ I am a seasoned Technical Writer and Editor with over 10 years of experience tra
 - ⚙️ Created user manuals using Microsoft Word, achieving over 70% uptime and accuracy
 - 📐 Designed process flow diagrams using Visio for SVOD and AVOD workflows
 
-### 💻 Mzaya Pvt. Ltd (April 2020 – December 2021)
+### 💻 Mzaya Pvt. Ltd (December 2010 – April 2013)
 - 🌐 Created and updated an online user manual using Robohelp for tax preparation software increasing user access by 50%
 -    Conceived, published and distributed Powermatics Energy Brochure as a part of Marketing collateral that increased customer engagement by 40%
-
-### 💻 Access Holdings (June 2021 – Present)
-- 🌐 Created and updated API documentation for banking operations like creating Savings Account, Customers, Loans, Transacrtions, Configurations, etc., improving customer 
-     satisfaction by 40%
   
 ## 🛠 Tools and Technologies
 - **Authoring Tools:** MadCap Flare, FrameMaker, RoboHelp, Oxygen & Arbortext XML Editors, VS Code, ReadMe.IO, Swagger.
