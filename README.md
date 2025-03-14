@@ -12,7 +12,7 @@ I am a seasoned Technical Writer and Editor with over 10 years of experience tra
 - 📘 Developed FHIR API documentation using VS Code Editor
 - 🔄 Published API documentation on ReadMe.IO, increasing user engagement by 30%
 
-### 🔦 Keysight Technologies (   )
+### 🔦 Keysight Technologies (June 2017 - March 2018)
 - 🔢 Created and updated user manuals for real-time oscilloscopes, both offline (Pdf) and online (Chm) using Framemaker and Madcap Flare, respectively. This resulted in user increase and satisfaction by 50%.
 
 ### 📺 ZEE5 Pvt. Ltd (April 2020 – December 2021)
