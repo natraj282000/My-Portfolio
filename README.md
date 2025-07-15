@@ -1,4 +1,6 @@
-# 📝 My Technical Writing Portfolio
+# 👋 Hi, I'm Natraj Ramamoorthy
 
-View the live portfolio here:  
+I'm a technical writer passionate about crafting user-focused documentation for APIs, Platforms, and Products. 
+You can check out my portfolio here:
+
 👉 [https://natraj282000.github.io/my_technical_writing_portfolio](https://natraj282000.github.io/My-Portfolio/)
