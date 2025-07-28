@@ -118,8 +118,8 @@ ul {
 
 .project-thumb {
   width: 280px;
-  height: 180px;
-  object-fit: cover;
+  height: auto;                 /* Show full image height */
+  object-fit: contain;          /* Don’t crop */
   object-position: top;
   background-color: #f8fafc;
   border-radius: 6px;
